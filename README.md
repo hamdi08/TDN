@@ -1,8 +1,9 @@
 # TDN : Tensor Decomposition-based Node representation learning
 This repository contains the Python source codes of two node embedding algorithms: TDNE (Tensor Decomposition-based Node Embedding) and TDNEpS (Tensor Decomposition-based Node Embedding per Slice). We implemented them as extensions of GEM (https://github.com/palash1992/GEM). For details, please read our paper:
+
 S. M. Hamdi, and R. Angryk, "Interpretable Feature Learning of Graphs using Tensor Decomposition," 2019 IEEE 19th International Conference on Data Mining (ICDM), November 8-11, 2019,  Beijing, China.
 
-##Usage
+## Usage
 * Git clone GEM
 ```bash
     git clone https://github.com/palash1992/GEM.git
