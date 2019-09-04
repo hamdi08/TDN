@@ -26,3 +26,8 @@ S. M. Hamdi, and R. Angryk, "Interpretable Feature Learning of Graphs using Tens
     cd GEM/
     python3 Karate.py
 ```
+## Citation
+If you use TDNE, please cite any one of the following two papers. If you use TDNEpS, please cite the ICDM paper.
+* S. M. Hamdi, S. F. Boubrahimi, and R. Angryk. 2019. Tensor Decomposition-based Node Embedding. In The 28th ACM International Conference on Information and Knowledge Management (CIKM ’19), November 3–7, 2019, Beijing, China. ACM.
+* S. M. Hamdi, and R. Angryk, "Interpretable Feature Learning of Graphs using Tensor Decomposition," 2019 IEEE 19th International Conference on Data Mining (ICDM), November 8-11, 2019,  Beijing, China.
+
